@@ -1,1 +1,1 @@
-document.documentElement.classList.add("dark");
+setTimeout(() => document.documentElement.classList.add("dark"), 500);
