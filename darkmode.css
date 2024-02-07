@@ -1,0 +1,76 @@
+:root {
+  color-scheme: dark !important;
+}
+
+body {
+  --background: 0 0% 7%;
+  --foreground: 0 0% 98%;
+  --border: 240 4% 16%;
+  --card: 240 6% 10%;
+  --card-foreground: 0 0% 98%;
+  --muted: 240 6% 10%;
+  --accent: 240 6% 10%;
+  --accent-foreground: 240 5% 96%;
+  --input: 240 4% 16%;
+  --popover: 240 6% 10%;
+  --popover-foreground: 0 0% 98%;
+}
+
+.text-gray-900 {
+  --tw-text-opacity: 1;
+  color: rgb(244 244 245 / var(--tw-text-opacity)) !important;
+}
+
+.text-gray-800 {
+  --tw-text-opacity: 1;
+  color: rgb(228 228 231 / var(--tw-text-opacity)) !important;
+}
+
+.text-gray-700 {
+  --tw-text-opacity: 1;
+  color: rgb(212 212 216 / var(--tw-text-opacity)) !important;
+}
+
+.text-gray-600 {
+  --tw-text-opacity: 1;
+  color: rgb(161 161 170 / var(--tw-text-opacity)) !important;
+}
+
+.text-black {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity)) !important;
+}
+
+.bg-white {
+  --tw-bg-opacity: 1;
+  background-color: rgb(24 24 27 / var(--tw-bg-opacity)) !important;
+}
+
+.bg-red-200 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(127 29 29 / var(--tw-bg-opacity)) !important;
+}
+
+header.via-white\/60 {
+  --tw-gradient-to: hsla(240, 10%, 4%, 0) var(--tw-gradient-to-position);
+  --tw-gradient-stops: var(--tw-gradient-from),
+    hsla(240, 10%, 4%, 0.6) var(--tw-gradient-via-position),
+    var(--tw-gradient-to);
+}
+
+header.from-white {
+  --tw-gradient-from: #09090b var(--tw-gradient-from-position) !important;
+}
+
+.border-gray-200 {
+  --tw-border-opacity: 1;
+  border-color: rgb(39 39 42 / var(--tw-border-opacity)) !important;
+}
+
+.hover\:bg-gray-300\/50:hover {
+  background-color: hsla(240, 5%, 26%, 0.5) !important;
+}
+
+svg {
+  fill: white !important;
+}
