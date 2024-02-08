@@ -72,5 +72,5 @@ header.from-white {
 }
 
 svg {
-  fill: white !important;
+  fill: currentColor !important;
 }
