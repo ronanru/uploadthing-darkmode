@@ -1,4 +1,4 @@
-# Free UploadThing Darkmode Chrome Extension
+# Free UploadThing Darkmode Browser Extension
 
 [UploadThing made darkmode a paid feature](https://github.com/pingdotgg/uploadthing/issues/606), this extension adds it for free.
 
