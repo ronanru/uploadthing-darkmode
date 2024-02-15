@@ -6,7 +6,7 @@
 
 ### Chrome (and other Chromium-based browsers)
 
-I submitted it to the Chrome Web Store, but while it's on review, you can install it manually from the [Releases tab](https://github.com/ronanru/uploadthing-darkmode/releases).
+Get it on [Chrome Web Store](https://chromewebstore.google.com/detail/free-uploadthing-darkmode/lhhjcmacegkmfklpodaiiikgdmdbooff) or install it manually from the [Releases tab](https://github.com/ronanru/uploadthing-darkmode/releases).
 
 ### Firefox
 
